@@ -4,7 +4,7 @@
  I am a software developer and a lover of technology
 
 ## GitHub Profile Trophy
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=BirdNation&row=2&column=3&theme=juicyfresh)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=BirdNation&theme=darkhub&margin-w=45)
 
 ## GitHub Stats
 | Most Used Languages | GitHub Stats |
